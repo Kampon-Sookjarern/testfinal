@@ -1,0 +1,9 @@
+a. answer mkdir KAMPON
+b. answer ROBOT_CLASS.txt
+c.
+git init
+git add README.md
+git commit -m "Remote Repo'
+git branch -M robot-dev
+git remote add origin https://github.com/robot-class/final.git
+git push -u origin main
